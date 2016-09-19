@@ -2,7 +2,7 @@
 
 This project is generated with [yo angular generator](https://github.com/yeoman/generator-angular) 
 
-version 0.14.0.
+version 0.14.0 , Angular 1.4.9 and node backend
 
 [deployed Heroku] (https://courses-description.herokuapp.com/)
 
