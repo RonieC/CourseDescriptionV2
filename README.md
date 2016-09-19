@@ -1,8 +1,10 @@
 # Course-description
 
-This project is generated with [yo angular generator](https://github.com/yeoman/generator-angular) [deployed Heroku] (https://courses-description.herokuapp.com/)
+This project is generated with [yo angular generator](https://github.com/yeoman/generator-angular) 
 
 version 0.14.0.
+
+[deployed Heroku] (https://courses-description.herokuapp.com/)
 
 ##Run Project
 
